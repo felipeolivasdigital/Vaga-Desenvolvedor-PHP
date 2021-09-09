@@ -5,43 +5,6 @@ Vaga Desenvolvedor PHP
 ===============	
 Nós da Olivas Digital buscamos um(a) desenvolvedor(a) para transformar ideias em códigos que estará envolvido em vários aspectos, desde o conceito até o produto final, incluindo UX, criação e codificação utilizando PHP.
 
-
-
-
-# Sobre a vaga
-##### Responsabilidades:
-- Desenvolvimento de plataformas, sites, e-commerce e aplicativos
-- Manutenção e evolução de sistemas legados
-- Apoio aos desenvolvedores Junior
-- Identificar problemas e propor melhorias
-
-##### Pré-requisitos:
-- Ao menos 3 anos de experiência como desenvolvedor
-- Experiência com PHP utilizando ao menos um dos frameworks Laravel, Magento ou Zend
-- Conhecimento sobre APIs
-- Noções de HTML/CSS utilizando (Webpack, Grunt ou Gulp)
-- Boa comunicação e saber trabalhar em equipe
-- Compreensão de necessidades para propor soluções frente aos problemas
-- Bom entendimento de Design de Interface (UI) e Experiência do Usuário (UX)
-- Curso técnico ou tecnólogo em Ciências da Computação, Análise e Desenvolvimento de Sistemas, Engenharia da Computação, Sistemas de Informação, Programação ou matérias correlatas e Curso Superior em andamento (mínimo 3°ano) nas áreas de Tecnologia da Informação ou Gestão da Tecnologia da Informação 
-
-##### Serão Considerados como Diferenciais:
-- Conhecimento em IONIC, React ou Angular
-- Experiência com métodos ágeis/scrum
-- Inglês intermediário e avançado
-- Experiência com Node
-
-##### Benefícios
-- Contrato PJ com 30 dias de férias ao ano
-- Vale-Refeição
-- Bônus trimestral
-- Participação nos Lucros (PLR)
-
-##### Local e trabalho
-- 100% remoto ou presencialmente em Barueri-SP
-
-___
-
 # Desafio para vaga (PARTICIPE!) 
 ### Como participar
 - Forkar esse desafio e criar o seu projeto (ou workspace) usando a sua versão desse repositório, após terminar o desafio, submeta um pull request.
@@ -78,3 +41,39 @@ ___
 - [LaravelMix](https://laravel-mix.com/)
 - [Eloquent API Resources](https://laravel.com/docs/8.x/eloquent-resources)
 - Disparo de e-mail utilizando filas [(Queues)](https://laravel.com/docs/8.x/queues)
+
+
+
+# Sobre a vaga
+##### Responsabilidades:
+- Desenvolvimento de plataformas, sites, e-commerce e aplicativos
+- Manutenção e evolução de sistemas legados
+- Apoio aos desenvolvedores Junior
+- Identificar problemas e propor melhorias
+
+##### Pré-requisitos:
+- Ao menos 3 anos de experiência como desenvolvedor
+- Experiência com PHP utilizando ao menos um dos frameworks Laravel, Magento ou Zend
+- Conhecimento sobre APIs
+- Noções de HTML/CSS utilizando (Webpack, Grunt ou Gulp)
+- Boa comunicação e saber trabalhar em equipe
+- Compreensão de necessidades para propor soluções frente aos problemas
+- Bom entendimento de Design de Interface (UI) e Experiência do Usuário (UX)
+- Curso técnico ou tecnólogo em Ciências da Computação, Análise e Desenvolvimento de Sistemas, Engenharia da Computação, Sistemas de Informação, Programação ou matérias correlatas e Curso Superior em andamento (mínimo 3°ano) nas áreas de Tecnologia da Informação ou Gestão da Tecnologia da Informação 
+
+##### Serão Considerados como Diferenciais:
+- Conhecimento em IONIC, React ou Angular
+- Experiência com métodos ágeis/scrum
+- Inglês intermediário e avançado
+- Experiência com Node
+
+##### Benefícios
+- Contrato PJ com 30 dias de férias ao ano
+- Vale-Refeição
+- Bônus trimestral
+- Participação nos Lucros (PLR)
+
+##### Local e trabalho
+- 100% remoto ou presencialmente em Barueri-SP
+
+___
