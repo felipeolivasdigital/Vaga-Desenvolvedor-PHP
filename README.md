@@ -26,7 +26,8 @@ Nós da Olivas Digital buscamos um(a) desenvolvedor(a) para transformar ideias e
 4) Utilizar o **[Eloquent](https://laravel.com/docs/8.x/eloquent)** para os relacionamentos
 
 #### API
-6) Disponilizar os dados de clientes via **API com autenticação JWT**
+6) API com autenticação JWT
+7) Disponilizar os dados de clientes
 ___
 ### Critério de avaliação
 - Organização do código: Separação de módulos, view, model e controller
