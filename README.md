@@ -12,6 +12,7 @@ Nós da Olivas Digital buscamos um(a) desenvolvedor(a) para transformar ideias e
 
 ### Escopo do projeto
 
+#### Interface Administrativa com login/senha de acesso.
 1) **Criar um CRUD** de Clientes com os campos
     - Nome*
     - Email*
@@ -23,7 +24,9 @@ Nós da Olivas Digital buscamos um(a) desenvolvedor(a) para transformar ideias e
 2) **Disparar um e-mail** de “Boas vindas” para o cliente
 3) Utilizar **migrations** para a criação das tabelas
 4) Utilizar o **[Eloquent](https://laravel.com/docs/8.x/eloquent)** para os relacionamentos
-5) Disponilizar os dados de clientes via **API com autenticação JWT**
+
+#### API
+6) Disponilizar os dados de clientes via **API com autenticação JWT**
 ___
 ### Critério de avaliação
 - Organização do código: Separação de módulos, view, model e controller
