@@ -8,7 +8,7 @@ Nós da Olivas Digital buscamos um(a) desenvolvedor(a) para transformar ideias e
 # Desafio para vaga (PARTICIPE!) 
 ### Como participar
 - Forkar esse desafio e criar o seu projeto (ou workspace) usando a sua versão desse repositório, após terminar o desafio, submeta um pull request.
-- Caso você tenha algum motivo para não submeter um pull request, crie um repositório privado no Github, faça todo desafio na branch master. Assim que terminar seu desenvolvimento, adicione como colaborador o usuário sistema@olivasdigital.com.br no seu repositório e o deixe disponível por pelo menos 30 dias.
+- Caso você tenha algum motivo para não submeter um pull request, crie um repositório privado no Github, faça todo desafio na branch master. Assim que terminar seu desenvolvimento, adicione como colaborador o usuário sistema@olivasdigital.com.br e felipe@olivasdigital.com.br no seu repositório e o deixe disponível por pelo menos 30 dias.
 
 ### Escopo do projeto
 
